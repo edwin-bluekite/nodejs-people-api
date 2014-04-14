@@ -1,0 +1,14 @@
+{
+  "name": "payload",
+  "version": "0.0.0",
+  "description": "Payload test",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "XGC Tooling Team",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^4.0.0"
+  }
+}
